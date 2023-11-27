@@ -16,4 +16,4 @@ python main.py # o el archivo principal de Python
 
 ## Variables de Entorno
 El proyecto utiliza las siguientes variables de entorno:
-* `
+* `meteosource` Llave de API meteosource
